@@ -2827,7 +2827,7 @@ CONFIG_ZRAM_DEF_COMP_LZORLE=y
 #
 # CONFIG_PACKAGE_kmod-mmc-spi is not set
 # CONFIG_PACKAGE_kmod-spi-bitbang is not set
-CONFIG_PACKAGE_kmod-spi-dev=y
+# CONFIG_PACKAGE_kmod-spi-dev is not set
 # CONFIG_PACKAGE_kmod-spi-gpio is not set
 # end of SPI Support
 
